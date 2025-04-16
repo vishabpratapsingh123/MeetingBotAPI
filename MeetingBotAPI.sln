@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingBotAPI", "MeetingBotAPI\MeetingBotAPI.csproj", "{D47E75A3-4014-4EA0-9619-C4F52E18DD07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D47E75A3-4014-4EA0-9619-C4F52E18DD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47E75A3-4014-4EA0-9619-C4F52E18DD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47E75A3-4014-4EA0-9619-C4F52E18DD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47E75A3-4014-4EA0-9619-C4F52E18DD07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1114678-966E-4A22-A08D-5C2087BCBBC0}
+	EndGlobalSection
+EndGlobal
